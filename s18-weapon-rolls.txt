@@ -1,0 +1,67 @@
+title:Season 18 Weapon Rolls
+description:New and updated weapon rolls for the Season of Plunder.
+
+// PLUNDER WEAPONS
+
+// Brigand's Law
+//notes:[PvE][Arc] Chambered Compensator, Tactical Mag, (Threat Detector, Pugilist), Voltshot. MW Stability. Backup Mag or Minor Spec.
+dimwishlist:item=1298815317&perks=4071163871,2173046394
+dimwishlist:item=1298815317&perks=691659142,2173046394
+
+// Brigand's Law
+//notes:[PvE][Melee] Chambered Compensator, Tactical Mag, (Threat Detector, Pugilist), Swashbuckler. MW Stability. Backup Mag or Minor Spec.
+dimwishlist:item=1298815317&perks=4071163871,4082225868
+dimwishlist:item=1298815317&perks=691659142,4082225868
+
+// Blood Feud
+//notes:[PvE][Melee] Chambered Compensator, (Tactical Mag, Flared Magwell), (Grave Robber, Pugilist), Swashbuckler. MW Stability or Range. Minor Spec.
+dimwishlist:item=1509167284&perks=1631667848,4082225868
+dimwishlist:item=1509167284&perks=691659142,4082225868
+
+// Blood Feud
+//notes:[PvE] Chambered Compensator, (Tactical Mag, Flared Magwell), Ensemble, Frenzy. MW Stability or Range. Minor Spec.
+dimwishlist:item=1509167284&perks=2621346526,4104185692
+
+// Blood Feud
+//notes:[PvE][Stasis] Chambered Compensator, (Tactical Mag, Flared Magwell), Ambitious Assassin, Headstone. MW Stability. Backup Mag.
+dimwishlist:item=1509167284&perks=2010801679,124408337
+
+// Tarnished Mettle
+//notes:[PvE][Arc] Arrowhead Brake, (Tactical Mag, Flared Magwell), Demolitionist, Voltshot. MW Stability. Damage Spec.
+dimwishlist:item=2218569744&perks=3523296417,2173046394
+
+// Tarnished Mettle
+//notes:[PvE][Major] Arrowhead Brake, (Tactical Mag, Flared Magwell), Fourth Time's the Charm, Explosive Payload. MW Stability. Major Spec.
+dimwishlist:item=2218569744&perks=1354429876,3038247973
+
+// No Reprieve
+//notes:[PvE][Melee] (Smallbore, Hammer-Forged Rifling), (Assault Mag, Tactical Mag), Pugilist, (Swashbuckler, Wellspring). MW Reload. Damage Spec.
+dimwishlist:item=2531963421&perks=691659142,4082225868
+dimwishlist:item=2531963421&perks=691659142,3592538738
+
+// Sailspy Pitchglass
+//notes:[PvE][Boss] Fluted Barrel, Enhanced Battery, (Clown Cartridge, Rapid Hit), (Focused Fury, Frenzy, Vorpal Weapon). MW Reload. Major or Boss Spec. 
+dimwishlist:item=1184309824&perks=2284787283,2896038713
+dimwishlist:item=1184309824&perks=247725512,2896038713
+dimwishlist:item=1184309824&perks=2284787283,4104185692
+dimwishlist:item=1184309824&perks=247725512,4104185692
+dimwishlist:item=1184309824&perks=2284787283,1546637391
+dimwishlist:item=1184309824&perks=247725512,1546637391
+
+// Planck's Stride
+//notes:[PvE] Arrowhead Brake, (Tactical Mag, Flared Magwell), (Perpetual Motion, Killing Wind), (One For All, Swashbuckler). MW Reload. Damage Spec.
+dimwishlist:item=820890091&perks=1428297954,4049631843
+dimwishlist:item=820890091&perks=2450788523,4049631843
+dimwishlist:item=820890091&perks=1428297954,4082225868
+dimwishlist:item=820890091&perks=2450788523,4082225868
+
+// HAUNTED WEAPONS
+
+
+
+// OPULENT WEAPONS
+
+// VANGUARD WEAPONS
+
+// Fortissimo-11
+//notes:[PvE][Match] Demolitionist, Osmosis
