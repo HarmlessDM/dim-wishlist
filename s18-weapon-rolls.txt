@@ -59,42 +59,60 @@ dimwishlist:item=820890091&perks=2450788523,4082225868
 
 // Firefright
 //notes:[PvE][Match] (Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore), (Flared Magwell, Light Mag), Well-Rounded, Osmosis. MW Reload. Backup Mag or Damage Spec.
+dimwishlist:item=2778013407&perks=744594675,1774574192
 
 // Firefright
 //notes:[PvE] (Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore), Appended Mag, Threat Detector, Surrounded. MW Any. Backup Mag or Damage Spec.
+dimwishlist:item=2778013407&perks=4071163871,3708227201
 
 // Tears of Contrition
 //notes:[PvE][Major] (Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore), Tactical Mag, Triple Tap, Explosive Payload. MW Any. Major Spec.
+dimwishlist:item=1366394399&perks=3400784728,3038247973
 
 // Hollow Denial
 //notes:[PvE][Void] (Corkscrew Rifling, Fluted Barrel, Smallbore), (Enhanced Battery, Tactical Battery), Well-Rounded, Repulsor Brace. MW Reload. Backup Mag or Damage Spec.
+dimwishlist:item=2323544076&perks=744594675,776531651
 
 // Hollow Denial
 //notes:[PvE][Match] (Corkscrew Rifling, Fluted Barrel, Smallbore), (Enhanced Battery, Tactical Battery), Adaptive Munitions, (Dragonfly, Killing Tally, Repulsor Brace). MW Reload. Backup Mag or Damage Spec.
+dimwishlist:item=2323544076&perks=1048183818,2848615171
+dimwishlist:item=2323544076&perks=1048183818,2782457288
+dimwishlist:item=2323544076&perks=1048183818,776531651
 
 // Nezarec's Whisper
 //notes:[PvE] Low-Impedance Windings, Appended Mag, (Demolitionist, Impulse Amplifier), Unstoppable Force. MW Reload. Backup Mag or Damage Spec.
+dimwishlist:item=254636484&perks=3523296417,2224838837
+dimwishlist:item=254636484&perks=951095735,2224838837
 
 // Nezerac's Whisper
 //notes:[PvP] Ballistic Tuning, Accurized Rounds, Impulse Amplifier, Unstoppable Force. MW Reload. Quick Access Sling.
+dimwishlist:item=254636484&perks=951095735,2224838837
 
 // Without Remorse
 //notes:[PvE][Melee] (Smallbore, Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag, Light Mag), Threat Detector, One-Two Punch. MW Range or Reload. Backup Mag or Damage Spec.
+dimwishlist:item=1478986057&perks=4071163871,2679249093
 
 // Without Remorse
 //notes:[PvE][Solar] (Smallbore, Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag, Light Mag), (Field Prep, Threat Detector), Incandescent. MW Range or Reload. Backup Mag or Damage Spec.
+dimwishlist:item=1478986057&perks=2869569095,4293542123
+dimwishlist:item=1478986057&perks=4071163871,4293542123
 
 // Without Remorse
 //notes:[PvP][Arc] Rifled Barrel, Accurized Rounds, Hip-Fire Grip, Elemental Capacitor. MW Range. Backup Mag.
+dimwishlist:item=1478986057&perks=1866048759,3511092054
 
 // Without Remorse
 //notes:[PvP] Corkscrew Rifling, Accurized Rounds, Hip-Fire Grip, Fragile Focus. MW Range. Quick Access Sling.
+dimwishlist:item=1478986057&perks=1866048759,2451262963
 
 // Bump in the Night
 //notes:[PvE][Boss] (Quick Launch, Smart Drift Control), Impact Casing, Auto-Loading Holster, (Frenzy, Vorpal Weapon). MW Handling. Boss Spec.
+dimwishlist:item=1959650777&perks=3300816228,4104185692
+dimwishlist:item=1959650777&perks=3300816228,1546637391
 
 // Bump in the Night
 //notes:[PvE][Stasis] (Quick Launch, Smart Drift Control), Impact Casing, Auto-Loading Holster, Chill Clip. MW Handling. Damage Spec.
+dimwishlist:item=1959650777&perks=3300816228,2978966579
 
 // OPULENT WEAPONS
 
