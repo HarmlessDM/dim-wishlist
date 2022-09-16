@@ -111,10 +111,61 @@ dimwishlist:item=1959650777&perks=3300816228,4104185692
 dimwishlist:item=1959650777&perks=3300816228,1546637391
 
 // Bump in the Night
-//notes:[PvE][Stasis] (Quick Launch, Smart Drift Control), Impact Casing, Auto-Loading Holster, Chill Clip. MW Handling. Damage Spec.
+//notes:[PvE][Stasis] (Quick Launch, Smart Drift Control), Impact Casing, (Auto-Loading Holster, Field Prep), Chill Clip. MW Reload or Handling. Damage Spec.
 dimwishlist:item=1959650777&perks=3300816228,2978966579
+dimwishlist:item=1959650777&perks=2869569095,2978966579
 
 // OPULENT WEAPONS
+
+// Austringer
+//notes:[PvP][Duel] Fluted Barrel, Ricochet Rounds, Snapshot Sights, Rangefinder. MW Range. Targeting Adjuster.
+dimwishlist:item=3055790362&perks=,957782887,2846385770
+
+// Austringer
+//notes:[PvP][Duel] Fluted Barrel, Ricochet Rounds, Eye of the Storm, Opening Shot. MW Range. Targeting Adjuster.
+dimwishlist:item=3055790362&perks=699525795,47981717
+
+// Calus Mini-Tool
+//notes:[PvE][Solar] (Extended Barrel, Hammer-Forged Rifling, Smallbore), (Appended Mag, Tactical Mag), Threat Detector, Incandescent. MW Reload, Range, or Stability. Backup Mag.
+dimwishlist:item=2490988246&perks=4071163871,4293542123
+
+// Calus Mini-Tool
+//notes:[PvE] (Extended Barrel, Hammer-Forged Rifling, Smallbore), (Appended Mag, Tactical Mag), (Unrelenting, Threat Detector, Grave Robber), Surrounded. MW Reload, Range, or Stability. Backup Mag.
+dimwishlist:item=2490988246&perks=4071163871,3708227201
+dimwishlist:item=2490988246&perks=3108830275,3708227201
+dimwishlist:item=2490988246&perks=1631667848,3708227201
+
+// Drang (Baroque)
+//notes:[PvE][Solar] (Extended Barrel, Hammer-Forged Rifling, Smallbore), (Accurized Rounds, Tactical Mag, Flared Magwell), Wellspring, Incandescent. MW Reload or Range. Backup Mag or Damage Spec.
+dimwishlist:item=502356570&perks=3592538738,4293542123
+
+// Drang (Baroque)
+//notes:[PvE] (Extended Barrel, Hammer-Forged Rifling, Smallbore), (Accurized Rounds, Tactical Mag, Flared Magwell), Well-Rounded, Swashbuckler. MW Reload or Range. Backup Mag or Damage Spec.
+dimwishlist:item=502356570&perks=744594675,4082225868
+
+// Beloved
+//notes:[PvP] Hammer-Forged Rifling, Ricochet Rounds, Snapshot Sights, Moving Target. MW Range. Targeting Adjuster.
+dimwishlist:item=3107853529&perks=957782887,588594999
+
+// The Epicurean
+//notes:[PvE] Arrowhead Brake, Accelerated Coils, (Ensemble, Feeding Frenzy), Swashbuckler. MW Reload. Backup Mag or Damage Spec.
+dimwishlist:item=2263839058&perks=2621346526,4082225868
+dimwishlist:item=2263839058&perks=2779035018,4082225868
+
+// The Epicurean
+//notes:[PvE][Void] Arrowhead Brake, Accelerated Coils, (Ensemble, Feeding Frenzy), Repulsor Brace. MW Reload. Backup Mag or Damage Spec.
+dimwishlist:item=2263839058&perks=2621346526,776531651
+dimwishlist:item=2263839058&perks=2779035018,776531651
+
+// Fixed Odds
+//notes:[PvE][Solar] Arrowhead Brake, (Appended Mag, Tactical Mag), (Feeding Frenzy, Field Prep), Incandescent. MW Reload. Backup Mag or Damage Spec.
+dimwishlist:item=2194955522&perks=2779035018,4293542123
+dimwishlist:item=2194955522&perks=2869569095,4293542123
+
+// Fixed Odds
+//notes:[PvE] Arrowhead Brake, (Appended Mag, Tactical Mag), (Feeding Frenzy, Field Prep), Killing Tally. MW Reload. Backup Mag or Damage Spec.
+dimwishlist:item=2194955522&perks=2779035018,557221067
+dimwishlist:item=2194955522&perks=2869569095,557221067
 
 // VANGUARD WEAPONS
 
